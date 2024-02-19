@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-Soon
+<img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
 
 ### Links
 
