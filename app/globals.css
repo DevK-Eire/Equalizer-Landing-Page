@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.-m-1px {
+  margin: -1px;
+}
+
+.tight-letter-spacing {
+  letter-spacing: -1px;
+}
+
+.ios-icon:hover {
+  background: #66e2dc;
+}
+
+.android-icon:hover {
+  background: #ffb964;
+}
+
+.footer-icons:hover {
+  color: #ffb964;
+}
+
+.main-card {
+  background: #191826;
+  height: 600px;
+}
+
+.premium-eq {
+  background: #fa7453;
+}
+
+.system-audio {
+  width: 1015px;
+  height: 176px;
+}
+
+.pattern-1 {
+  position: absolute;
+  width: 312px;
+  height: 468px;
+  left: 1128px;
+  top: -40px;
+}
+
+.icons {
+  color: #191826;
+}
+
+.background {
+  background: '/../images/background.png';
+}
