@@ -21,7 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-<img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
+### Desktop
+
+<img alt="Equalizer Landing Page Desktop" src="https://github.com/DevK-Eire/Equalizer-Landing-Page/blob/main/public/DesktopEQ.PNG" align="center">
+
+### Mobile
+
+<img alt="Equalizer Landing Page Mobile" src="https://github.com/DevK-Eire/Equalizer-Landing-Page/blob/main/public/MobileEQ.PNG" align="center">
 
 ### Links
 
